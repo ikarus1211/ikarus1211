@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am looking for a part-time job
+Hello, I am 24 years old IT student. I did my studies at STU FIIT and now I am currently studying my last year of master's at BUT FIT.
+I enjoy programing in C/C++ ☻ and Python. 
+I focus mostly on subjects concerning:
+  - computer vision
+  - computer graphics
+  - neural network
+  - bioinformatics
 
 
 # 💻 Tech Stack:
