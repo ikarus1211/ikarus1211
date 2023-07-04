@@ -6,6 +6,7 @@ I focus mostly on subjects concerning:
   - computer graphics
   - neural network
   - bioinformatics
+
 So far I have gathered experience at university and several IT jobs:
   - ISDD Slovakia, Oracle database management for ORANGE | 3 months, as a summer job
   - At university on FACIS project for Czech police as an assistant researcher
