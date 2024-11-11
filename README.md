@@ -24,4 +24,11 @@ So far I have gathered experience at university and several IT jobs:
 ---
 [![](https://visitcount.itsvg.in/api?id=ikarus1211&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<script>
+  const birthDate = new Date("1990-01-01"); // Set your birthdate here
+  const ageDifMs = Date.now() - birthDate.getTime();
+  const ageDate = new Date(ageDifMs);
+  const age = Math.abs(ageDate.getUTCFullYear() - 1970);
+  document.getElementById("age").textContent = age;
+</script>
+
