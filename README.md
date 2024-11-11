@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am 24 years old IT student. I did my studies at STU FIIT and now I am currently studying my last year of master's at BUT FIT.
+Hello, I am 25 years old IT student. I did my studies at STU FIIT and BUT FIT. Now, I am currently studying PhD studies at BUT FIT.
 I enjoy programing in C/C++ ☻ and Python. 
 I focus mostly on subjects concerning:
   - computer vision
@@ -23,12 +23,4 @@ So far I have gathered experience at university and several IT jobs:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ikarus1211&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<script>
-  const birthDate = new Date("1990-01-01"); // Set your birthdate here
-  const ageDifMs = Date.now() - birthDate.getTime();
-  const ageDate = new Date(ageDifMs);
-  const age = Math.abs(ageDate.getUTCFullYear() - 1970);
-  document.getElementById("age").textContent = age;
-</script>
 
